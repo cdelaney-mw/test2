@@ -1,6 +1,6 @@
 %[text] ## Some Text
 x=1 %[output:62d43574]
-y=2 %[output:6426b2d5]
+y=3 %[output:6426b2d5]
 surf(peaks) %[output:73dd69e8]
 
 %[appendix]{"version":"1.0"}
